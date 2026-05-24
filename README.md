@@ -1,6 +1,4 @@
-# Profit-Leakage-Analysis-Case-Study
-Business case study analyzing profit leakage and discount optimization using Python.
-# Profit Leakage & Discount Optimization Analysis
+# Profit Leakage & Discount Optimization Analysis-Case-Study
 
 ![Python](https://img.shields.io/badge/Python-Data%20Analysis-blue)
 ![Pandas](https://img.shields.io/badge/Pandas-Analysis-orange)
@@ -98,7 +96,7 @@ Sales performance fluctuated over time, showing seasonal demand patterns and bus
 
 Furniture category showed a higher number of high-risk transactions, indicating pricing inefficiencies and profit leakage risk.
 
-![Risk Level](screenshots/risk_level_category.png)
+![Risk Level](screenshots/risk_level_by_category.png)
 
 ---
 
